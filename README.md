@@ -1,0 +1,4 @@
+angular-lifecycle
+=================
+
+managing state
